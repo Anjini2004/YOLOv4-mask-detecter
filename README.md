@@ -1,2 +1,2 @@
-# YOLOv4-mask-detecter
+# YOLOv4-mask-detector
 Mask detection algorithm trained using Google Colab for preventing the spread of covid-19 
